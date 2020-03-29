@@ -1,3 +1,3 @@
-from tinder_api import get_recommendations, authverif
+from tinder_api_sms import get_recommendations
 
-print(authverif())
+print(get_recommendations())

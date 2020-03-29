@@ -4,7 +4,7 @@ from datetime import date, datetime
 from random import random
 from time import sleep
 
-import tinder_api as api
+import tinder_api_sms as api
 '''
 This file collects important data on your matches,
 allows you to sort them by last_activity_date, age,
