@@ -1,1 +1,11 @@
-Tinder
+.vscode
+.DS_Store
+.idea/
+proxying.txt
+config.py
+api_abstract.py
+*.pyc
+__pycache__
+find.py
+*.log
+*.egg-info
